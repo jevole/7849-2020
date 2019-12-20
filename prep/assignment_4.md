@@ -12,8 +12,7 @@ Lists: [https://www.py4e.com/lessons/lists](https://www.py4e.com/lessons/lists)
 
 ## Input file
 
-The data used for this assignment can be downloaded from [../files/cinderella.txt](https://raw.githubusercontent.com/JoostImpink/python-fall-2019/master/files/cinderella.txt
-). Once you have downloaded the dataset, copy it to the same folder where you write your Python script.
+The data used for this assignment can be downloaded from [cinderella.txt](cinderella.txt). Once you have downloaded the dataset, copy it to the same folder where you write your Python script.
 
 If you are not sure in which directory Jupyter notebook is working from, you can run the following:
 
