@@ -1,0 +1,4 @@
+id|url
+3|http://www.ufl.edu
+2|https://www.sec.gov/cgi-bin/browse-edgar?CIK=aapl&Find=Search&owner=exclude&action=getcompany
+1|https://www.sec.gov/Archives/edgar/data/880417/000090631803000077/0000906318-03-000077.txt
